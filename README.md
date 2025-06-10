@@ -20,6 +20,7 @@ cd api-ruby
 ```bash
 gem install sinatra json bcrypt
 ```
+**or**
 ```bash
 bundle install
 ```
